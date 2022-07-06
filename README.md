@@ -1,0 +1,2 @@
+# squashy
+Created with CodeSandbox
