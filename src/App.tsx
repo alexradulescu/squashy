@@ -30,6 +30,7 @@ function App() {
       </p>
       <p>Small change 1</p>
       <p>Small change 2</p>
+      <p>Small change 3</p>
     </div>
   );
 }
