@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>Small change 1</p>
+      <p>Small change 2</p>
     </div>
   );
 }
